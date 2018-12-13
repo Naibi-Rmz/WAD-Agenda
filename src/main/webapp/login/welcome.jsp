@@ -15,6 +15,22 @@
 	<c:set var="usuario" value="${sessionScope.authenticated_user}" />
 	<h1>Bienvenido</h1>
 	<h3><c:out value="${usuario}"/></h3>
+        <div>
+            <table class="table" >
+                <thead>
+                    <tr>
+                        <td scope="col">Nombre</td>
+                        <td scope="col">Primer Apellido</td>
+                        <td scope="col">Segundo Apellido</td>
+                        <td scope="col">Curp</td>
+                        <td scope="col">Fecha de nacimiento</td>
+                    </tr>
+                </thead>
+                <tbody>
+                        
+                </tbody>
+            </table>
+        </div>
 </body>
 	</html>
 </jsp:root>

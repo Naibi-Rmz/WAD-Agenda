@@ -1,0 +1,6 @@
+INSERT INTO public.persona (id_persona, nb_usuario, tx_primer_ap, tx_segundo_ap, tx_curp, fh_nacimiento) VALUES (1, 'Ricardo', 'Ferreti', 'Oliveria', 'MOCH870812HGRX00', '1950-01-01');
+INSERT INTO public.persona (id_persona, nb_usuario, tx_primer_ap, tx_segundo_ap, tx_curp, fh_nacimiento) VALUES (2, 'Rafael', 'Márquez', 'Álvarez', 'MOCH870812HGRX01', '1960-01-01');
+INSERT INTO public.persona (id_persona, nb_usuario, tx_primer_ap, tx_segundo_ap, tx_curp, fh_nacimiento) VALUES (3, 'Javier', 'Hernández', 'Balcázar', 'MOCH870812HGRX02', '1970-01-01');
+INSERT INTO public.persona (id_persona, nb_usuario, tx_primer_ap, tx_segundo_ap, tx_curp, fh_nacimiento) VALUES (4, 'José Andrés', 'Guardado', 'Hernández', 'MOCH870812HGRX03', '1980-01-01');
+INSERT INTO public.persona (id_persona, nb_usuario, tx_primer_ap, tx_segundo_ap, tx_curp, fh_nacimiento) VALUES (5, 'Cristiano Ronaldo', 'Dos Santos', 'Aveiro', 'MOCH870812HGRX04', '1990-01-01');
+INSERT INTO public.persona (id_persona, nb_usuario, tx_primer_ap, tx_segundo_ap, tx_curp, fh_nacimiento) VALUES (6, 'Ivan', 'Hdz', 'S', 'HESO970502HDFRLC00', '0097-05-02');

@@ -2,4 +2,6 @@
   <mapping path="/" decorator="/resources/decorator/decorator-login.jsp"/>
   <mapping path="*login*" decorator="/resources/decorator/decorator-login.jsp"/>
   <mapping path="/*" decorator="/resources/decorator/decorator.jsp"/>
+  <mapping path="/" decorator="/resources/decorator/decorator-welcome.jsp" />
+  <mapping path="*welcome*" decorator="/resources/decorator/decorator-login.jsp"/>
 </sitemesh>
